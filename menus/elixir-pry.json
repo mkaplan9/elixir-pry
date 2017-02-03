@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle elixir-pry",
+        "command": "elixir-pry:add_pry"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "elixir-pry",
+          "submenu": [
+            {
+              "label": "Add pry",
+              "command": "elixir-pry:add_pry"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
