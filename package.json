@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "elixir-pry:add_pry"
   },
-  "repository": "https://github.com/atom/elixir-pry",
+  "repository": "https://github.com/mkaplan9/elixir-pry",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
