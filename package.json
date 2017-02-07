@@ -1,7 +1,7 @@
 {
   "name": "elixir-pry",
   "main": "./lib/elixir-pry",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adds IEx.pry where your cursor is and require IEx add the top of the file",
   "keywords": [],
   "activationCommands": {
