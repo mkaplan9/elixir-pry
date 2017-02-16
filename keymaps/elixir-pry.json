@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "elixir-pry:add_pry"
+    "ctrl-alt-p": "elixir-pry:add_pry",
+    "ctrl-alt-l": "elixir-pry:remove_pry"
   }
 }

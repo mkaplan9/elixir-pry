@@ -4,9 +4,6 @@
   "version": "0.2.0",
   "description": "Adds IEx.pry where your cursor is and require IEx add the top of the file",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "elixir-pry:add_pry"
-  },
   "repository": "https://github.com/mkaplan9/elixir-pry",
   "license": "MIT",
   "engines": {
